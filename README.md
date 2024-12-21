@@ -23,10 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="./assets/gif.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![gif](https://github.com/user-attachments/assets/b1fb2e33-2701-4689-91be-8ed42f8ef112)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with `ezgif.com`
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
